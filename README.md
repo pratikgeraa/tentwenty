@@ -4,7 +4,7 @@ Steps to run
 1) npm i
 2) npm run dev
 
-Recording of the video
+Recording of website
 
 https://github.com/user-attachments/assets/a97fdfff-b271-444e-863b-7e4c5e871b12
 
